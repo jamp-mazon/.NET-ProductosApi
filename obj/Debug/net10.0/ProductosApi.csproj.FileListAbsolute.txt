@@ -31,3 +31,7 @@ C:\Users\mazon\OneDrive\Documentos\.NET\ProductosApi\obj\Debug\net10.0\refint\Pr
 C:\Users\mazon\OneDrive\Documentos\.NET\ProductosApi\obj\Debug\net10.0\ProductosApi.pdb
 C:\Users\mazon\OneDrive\Documentos\.NET\ProductosApi\obj\Debug\net10.0\ProductosApi.genruntimeconfig.cache
 C:\Users\mazon\OneDrive\Documentos\.NET\ProductosApi\obj\Debug\net10.0\ref\ProductosApi.dll
+C:\Users\mazon\OneDrive\Documentos\.NET\ProductosApi\obj\Debug\net10.0\ProductosApi.sourcelink.json
+C:\Users\mazon\OneDrive\Documentos\.NET\ProductosApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mazon\OneDrive\Documentos\.NET\ProductosApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mazon\OneDrive\Documentos\.NET\ProductosApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
